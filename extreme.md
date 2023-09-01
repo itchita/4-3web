@@ -29,5 +29,5 @@ def test_add_numbers():
     assert add_numbers(-1, 1) == 0
 ```
 
-[アジャイル開発について](ajairu.md/)
+[アジャイル開発について](Agile.md/)
 [スクラム開発について](Scrum.md/)
